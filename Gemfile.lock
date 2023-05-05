@@ -183,6 +183,7 @@ DEPENDENCIES
   puma (~> 5.0)
   rack-cors
   rails (~> 7.0.4, >= 7.0.4.3)
+  sprockets-rails (~> 3.2)
   tzinfo-data
 
 RUBY VERSION
